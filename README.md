@@ -1,6 +1,4 @@
 # Computational Geometry
-Dr. Eliyahu Chalschi's Algorithmic Programming in Python
-Exercise 6 – Computational Geometry
 The task is to implement Graham's scan algorithm in the file convex_hull.py, with the following functions:
 
 a. findBottomLeft – Given a list of Point objects (the class is defined in mainTrain), it should return the bottom-leftmost point. If there are multiple such points, return the leftmost among them.
